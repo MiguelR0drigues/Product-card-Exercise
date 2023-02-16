@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Product-card-Exercise/static/css/main.073c9b0a.css",
-    "main.js": "/Product-card-Exercise/static/js/main.17aa554c.js",
+    "main.css": "/Product-card-Exercise/static/css/main.b4e486c1.css",
+    "main.js": "/Product-card-Exercise/static/js/main.e381f200.js",
     "static/js/787.c0cc0218.chunk.js": "/Product-card-Exercise/static/js/787.c0cc0218.chunk.js",
-    "static/media/logo.svg": "/Product-card-Exercise/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Product-card-Exercise/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Product-card-Exercise/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Product-card-Exercise/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Product-card-Exercise/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Product-card-Exercise/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/image-product-desktop.jpg": "/Product-card-Exercise/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
     "index.html": "/Product-card-Exercise/index.html",
-    "main.073c9b0a.css.map": "/Product-card-Exercise/static/css/main.073c9b0a.css.map",
-    "main.17aa554c.js.map": "/Product-card-Exercise/static/js/main.17aa554c.js.map",
+    "main.b4e486c1.css.map": "/Product-card-Exercise/static/css/main.b4e486c1.css.map",
+    "main.e381f200.js.map": "/Product-card-Exercise/static/js/main.e381f200.js.map",
     "787.c0cc0218.chunk.js.map": "/Product-card-Exercise/static/js/787.c0cc0218.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.17aa554c.js"
+    "static/css/main.b4e486c1.css",
+    "static/js/main.e381f200.js"
   ]
 }
